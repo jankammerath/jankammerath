@@ -1,0 +1,1 @@
+👋 Hi, I’m **Jan** and I like programming 😊 My GitHub repositories are here to keep some of my fun projects. My favourite programming languages are C, C++, Go, SQL and JavaScript. I stopped using Windows around 20 years ago when I switched to Unix systems such as Linux and macOS 🦁. All my projects are here for educational purposes.
